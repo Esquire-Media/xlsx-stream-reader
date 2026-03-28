@@ -33,7 +33,7 @@
     "unzipper": "^0.10.11"
   },
   "devDependencies": {
-    "mocha": "^8.1.1",
-    "standard": "^14.3.4"
+    "mocha": "^11.7.5",
+    "standard": "^17.1.2"
   }
 }
